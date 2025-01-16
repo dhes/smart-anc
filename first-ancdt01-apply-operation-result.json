@@ -1,0 +1,65 @@
+{
+  "resourceType": "CarePlan",
+  "id": "ANCDT01",
+  "contained": [
+    {
+      "resourceType": "RequestGroup",
+      "id": "ANCDT01",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/crmi/StructureDefinition/crmi-messages",
+          "valueReference": {
+            "reference": "#apply-outcome-ANCDT01"
+          }
+        }
+      ],
+      "instantiatesCanonical": [
+        "http://fhir.org/guides/who/anc-cds/PlanDefinition/ANCDT01"
+      ],
+      "status": "draft",
+      "intent": "proposal",
+      "subject": {
+        "reference": "Patient/charity-with-danger-signs"
+      },
+      "action": [
+        {
+          "title": "ANC.DT.01 Danger signs"
+        }
+      ]
+    },
+    {
+      "resourceType": "OperationOutcome",
+      "id": "apply-outcome-ANCDT01",
+      "issue": [
+        {
+          "severity": "error",
+          "code": "exception",
+          "diagnostics": "Condition expression Should Proceed with ANC contact  encountered exception: Could not resolve expression reference 'Should Proceed with ANC contact ' in library 'ANCDT01'."
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/uv/crmi/StructureDefinition/crmi-messages",
+      "valueReference": {
+        "reference": "#apply-outcome-ANCDT01"
+      }
+    }
+  ],
+  "instantiatesCanonical": [
+    "http://fhir.org/guides/who/anc-cds/PlanDefinition/ANCDT01"
+  ],
+  "status": "draft",
+  "intent": "proposal",
+  "subject": {
+    "reference": "Patient/charity-with-danger-signs"
+  },
+  "activity": [
+    {
+      "reference": {
+        "reference": "#RequestGroup/ANCDT01"
+      }
+    }
+  ]
+}

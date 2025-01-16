@@ -1,0 +1,3679 @@
+{
+  "resourceType": "Bundle",
+  "id": "delete-bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de124"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de84"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de83"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de86"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de121"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de85"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de128"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de80"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de127"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de126"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de82"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de81"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de129"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-25"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-26"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-23"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-24"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de96"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de97"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de120"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de77"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de76"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de79"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de78"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de113"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de95"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de112"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de94"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de111"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de110"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de96"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de117"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de91"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de116"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de90"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de115"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de93"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de114"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de92"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-38"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-39"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de39-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de107-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de88"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de87"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de169-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de89"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de102"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de101"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de100"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de80"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de81"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de82"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de83"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de103"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de109"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de108"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de107"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de7-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de92-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de73"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de74"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de75"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de48-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de89-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de76"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de77"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de78"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de79"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de211"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de98-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de93"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de214"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-18"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-19"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-17"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-14"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-12"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/iron-supplement"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-13"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de137-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de84"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de85"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCConfig"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de146-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de87"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de88"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de89"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-ded9-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de40"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de42"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de41"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de61"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de208"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de207"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de206"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de37"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b4-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de36"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de39"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de53"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de38"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de35"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de57"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de34"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de51"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de50"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de53"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de52"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-c-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de110-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de9"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de145-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de5"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de100"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de101"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de102"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de103"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de104"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de3"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de105"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de106"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de107"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de108"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de109"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de48"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-c-de5"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de47"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-c-de3"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de65"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de49"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-c-de2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de44"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de43"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de46"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de69"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de45"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de1-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de62"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de61"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de64"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de63"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de9"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de60"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de71-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de5"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de6"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de3"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de37"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Patient/charity-with-danger-signs"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-41"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de59"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de58"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-40"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de33"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de55"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de54"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de57"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de56"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de73"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de72"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de75"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de74"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de48-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de71"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de70"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de105-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/folic-acid-supplement"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de83-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de49"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de45-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de41"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de69"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de66-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de66"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de45"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de65"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de68"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de67"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de90"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de144"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de93"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de143"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de94"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de146"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de91"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de145"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de92"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de140"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de97"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de98"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de142"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de96"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de17"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de89"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de148"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de139"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de147"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de13"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de140"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de34-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de141"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de142"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de143"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de144"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de145"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de146"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de147"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de148"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de99"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de29"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de149"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de192"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de191"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de190"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de21"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de197"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de196"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de195"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de194"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de25"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de188"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de20"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de187"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de121"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de72"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de124"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de245"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de75"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-end-1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de76"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de110"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de241"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de73"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de74"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de66"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de67"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de126"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de247"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de19"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de125"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de128"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de249"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de127"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de182"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de15"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de7"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de181"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de17"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de5"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de16"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de6"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de186"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de11"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de3"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de10"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de4"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de178"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de177"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de176"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de133"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de135"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de256"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de80"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de1-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de134"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de81"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCDataElements"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de252"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de84"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de251"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de85"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/WHOCommon"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de79"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de125"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de77"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de78"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de137"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de258"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de108"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de136"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de29"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de109"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de138"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de171"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de170"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de105"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de28"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de106"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de206-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de27"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de107"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de175"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de22"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de100"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de174"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de21"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de101"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de173"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de24"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de172"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de23"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de168"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de167"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de166"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de182"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de165"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de181"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de110"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de169"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de188"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de189"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de184"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de186"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de22"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de26"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCConcepts"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de25"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de24"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de160"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de115"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de116"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de28"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de117"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de27"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de118"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de164"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de111"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de163"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de112"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de162"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de157"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de156"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de190"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de172-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de155"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de154"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de121"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de55-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de195"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de197"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de11"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de27-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de15"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de14"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/antenatal-care-case"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de12"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de19"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de18"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de17"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de128"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de129"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de153"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de122"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de152"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de123"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de151"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de150"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-ded9"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de146"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de145"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de130"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de144"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de149"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de148"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de147"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de165"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de150"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de151"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de167"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de152"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de51"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de162"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de153"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de154"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de164"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de155"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de156"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de44"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de157"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-a-de14"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de43"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de158"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-a-de13"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de42"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de71-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de159"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de41"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de5"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de169"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de46"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de45"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de124-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de140"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de134"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de133"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de171"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de132"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCContactDataElements"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de139"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de138"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de160"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de161"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de173"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de175"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de33"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de32"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de31"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de37"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de35"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de34"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de38"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de131"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de130"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de79-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de129-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de73"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de72"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de10"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCDT01"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de13"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de14"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de53"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de58"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de57"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de61-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de91"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de90"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de93"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de92"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de86"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de85"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de144-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de7"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de8"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de84"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de83"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de132-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de138-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de221"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de220"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de50"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de223"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de222"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de53"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de54"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de52"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/FHIRHelpers"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de108"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de46"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de47"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de44"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de109"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de45"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de104"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de225"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de224"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de48"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de105"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de49"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de60"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de61"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de113"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de234"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de233"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de62"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de63"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de99"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de57"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de58"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de97"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de55"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de96"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de156-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de56"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de114"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de117"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de238"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de59"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de116"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de237"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "PlanDefinition/ANCDT01"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de97"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de98"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de31"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de30"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de24"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de25"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de22"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de203"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de29"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de205"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de204"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/inactive-condition"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de210"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de1"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de2"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de211"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de3"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de42"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de43"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de41"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de218"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de35"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de217"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de36"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de33"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de219"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de34"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de4"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de5"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b10-de216"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de6"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de37"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de51"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/active-condition"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de50"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de64"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de65"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de50-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de66"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de67"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de68"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de70"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de71"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de72"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de48"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de73"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b5-de49"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de18-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de53"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de54"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de41-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/pregnancy-condition"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de55"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de56"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/antenatal-care-contact"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de57"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de58"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de59"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de60"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de43-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de61"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de62"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de63"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de43"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de150-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de44"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de45"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de46"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de-99"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de47"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de48"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de49"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de5-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de50"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de51"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de52"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "CarePlan/charity-with-danger-signs-plan"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de39"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de31"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de32"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de33"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de34"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de35"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de36"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Observation/anc-b5-de48-charity-with-danger-signs"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de37"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de38"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de40"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de41"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de74-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de28"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCCommon"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de29"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de139-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de20"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de21"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de22"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de23"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de24"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de25"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de26"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de27"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de30"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b9-de29-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de100-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b6-de109-choices-grouper"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de17"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de18"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de19"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de10"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de11"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de12"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de13"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de14"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de15"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b7-de16"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "GuidanceResponse/charity-with-danger-signs-response"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/FHIRCommon"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "Library/ANCBaseConcepts"
+      }
+    },
+    {
+      "request": {
+        "method": "DELETE",
+        "url": "ValueSet/anc-b8-de111-choices-grouper"
+      }
+    }
+  ]
+}
