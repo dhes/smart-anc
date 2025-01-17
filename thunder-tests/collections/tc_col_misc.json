@@ -63,11 +63,23 @@
             "colId": "1fb58db7-51db-4d36-b027-2e2786e9836d",
             "containerId": "",
             "name": "observation",
-            "url": "Observation",
-            "method": "GET",
+            "url": "Practitioner/practitioner-charity-with-danger-signs",
+            "method": "DELETE",
             "sortNum": 50000,
             "created": "2025-01-16T02:05:34.454Z",
-            "modified": "2025-01-16T02:05:38.572Z",
+            "modified": "2025-01-16T14:58:40.780Z",
+            "headers": []
+        },
+        {
+            "_id": "8e69d327-1315-4a0d-944e-77e0a2542881",
+            "colId": "1fb58db7-51db-4d36-b027-2e2786e9836d",
+            "containerId": "",
+            "name": "structuredefinition",
+            "url": "StructureDefinition",
+            "method": "GET",
+            "sortNum": 60000,
+            "created": "2025-01-16T04:01:01.957Z",
+            "modified": "2025-01-16T04:01:09.777Z",
             "headers": []
         }
     ],
