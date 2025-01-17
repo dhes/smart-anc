@@ -7,3 +7,4 @@ template/
 input/l2/Temp Archive/*
 .DS_Store
 .env
+bundles/

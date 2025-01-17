@@ -1,0 +1,17 @@
+{
+  "resourceType": "Group",
+  "id": "ANCDT01",
+  "extension": [ {
+    "url": "http://hl7.org/fhir/StructureDefinition/artifact-testArtifact",
+    "valueCanonical": "http://ecqi.healthit.gov/ecqms/Measure/ANCDT01"
+  } ],
+  "active": true,
+  "type": "person",
+  "actual": true,
+  "member": [ {
+    "entity": {
+      "reference": "Patient/charity-with-danger-signs",
+      "display": "Charity Otala"
+    }
+  } ]
+}

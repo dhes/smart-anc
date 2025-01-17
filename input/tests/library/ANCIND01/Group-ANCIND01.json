@@ -1,0 +1,17 @@
+{
+  "resourceType": "Group",
+  "id": "ANCIND01",
+  "extension": [ {
+    "url": "http://hl7.org/fhir/StructureDefinition/artifact-testArtifact",
+    "valueCanonical": "http://ecqi.healthit.gov/ecqms/Measure/ANCIND01"
+  } ],
+  "active": true,
+  "type": "person",
+  "actual": true,
+  "member": [ {
+    "entity": {
+      "reference": "Patient/charity-otala-1",
+      "display": "Charity Otala"
+    }
+  } ]
+}
