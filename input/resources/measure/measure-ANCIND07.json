@@ -594,7 +594,7 @@
   "title": "ANC.IND.07 Percentage of pregnant women with at least one blood pressure measure during ANC",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T14:52:26-06:00",
+  "date": "2025-01-17T18:00:16-06:00",
   "description": "Percentage of pregnant women with at least one blood pressure measure during ANC",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND07" ],
   "scoring": {

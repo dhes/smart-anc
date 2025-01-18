@@ -434,7 +434,7 @@
   "title": "ANC.IND.06 Pregnant women who received counselling on danger signs (%) during at least one ANC contact",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T14:52:26-06:00",
+  "date": "2025-01-17T18:00:16-06:00",
   "description": "Pregnant women who received counselling on danger signs (%) during at least one ANC contact",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND06" ],
   "scoring": {

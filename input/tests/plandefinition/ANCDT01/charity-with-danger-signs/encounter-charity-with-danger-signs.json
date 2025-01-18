@@ -86,10 +86,5 @@
     "code": "AMB",
     "display": "ambulatory",
     "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode"
-  },
-  "episodeOfCare": [
-    {
-      "reference": "EpisodeOfCare/charity-with-danger-signs-pregnancy-episode"
-    }
-  ]
+  }
 }

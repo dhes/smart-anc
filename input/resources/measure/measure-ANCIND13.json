@@ -434,7 +434,7 @@
   "title": "ANC.IND.13 Percentage of pregnant women who received oral pre-exposure prophylaxis (PrEP)",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T14:52:26-06:00",
+  "date": "2025-01-17T18:00:16-06:00",
   "description": "Percentage of pregnant women who received oral pre-exposure prophylaxis (PrEP)",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND13" ],
   "scoring": {

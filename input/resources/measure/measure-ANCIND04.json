@@ -404,7 +404,7 @@
   "title": "ANC.IND.04 Percentage of pregnant women with at least four ANC contacts",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T14:52:26-06:00",
+  "date": "2025-01-17T18:00:16-06:00",
   "description": "Percentage of pregnant women with at least four ANC contacts",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND04" ],
   "scoring": {

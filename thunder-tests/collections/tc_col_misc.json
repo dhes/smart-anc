@@ -10,11 +10,11 @@
             "colId": "1fb58db7-51db-4d36-b027-2e2786e9836d",
             "containerId": "",
             "name": "Patient",
-            "url": "PlanDefinition",
+            "url": "PractitionerRole",
             "method": "GET",
             "sortNum": 10000,
             "created": "2025-01-15T19:17:44.410Z",
-            "modified": "2025-01-15T20:09:19.670Z",
+            "modified": "2025-01-17T23:59:03.399Z",
             "headers": []
         },
         {

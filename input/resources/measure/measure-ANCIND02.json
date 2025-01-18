@@ -481,7 +481,7 @@
   "title": "ANC.IND.02 Percentage of pregnant women who received iron and folic acid (IFA) supplements for 90+ days",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T14:52:26-06:00",
+  "date": "2025-01-17T18:00:16-06:00",
   "description": "Percentage of pregnant women who received iron and folic acid (IFA) supplements for 90+ days",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND02" ],
   "scoring": {

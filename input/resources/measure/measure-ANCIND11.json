@@ -449,7 +449,7 @@
   "title": "ANC.IND.11 Percentage of women who received three doses or more of intermittent preventive therapy for malaria (IPTp) during their last pregnancy",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T14:52:26-06:00",
+  "date": "2025-01-17T18:00:16-06:00",
   "description": "Percentage of women who received three doses or more of intermittent preventive therapy for malaria (IPTp) during their last pregnancy",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND11" ],
   "scoring": {
