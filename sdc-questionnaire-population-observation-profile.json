@@ -87,9 +87,7 @@
   "title": "US Surgeon General - Family Health Portrait",
   "status": "active",
   "experimental": true,
-  "subjectType": [
-    "Patient"
-  ],
+  "subjectType": ["Patient"],
   "date": "2015",
   "publisher": "HL7 International - FHIR Infrastructure Work Group",
   "contact": [
