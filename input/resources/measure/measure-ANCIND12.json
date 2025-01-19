@@ -377,7 +377,7 @@
   "title": "ANC.IND.12 Percentage of pregnant women counselled and tested for HIV",
   "status": "draft",
   "experimental": false,
-  "date": "2025-01-17T18:00:16-06:00",
+  "date": "2025-01-18T16:10:37-06:00",
   "description": "Percentage of pregnant women counselled and tested for HIV",
   "library": [ "http://fhir.org/guides/who/anc-cds/Library/ANCIND12" ],
   "scoring": {

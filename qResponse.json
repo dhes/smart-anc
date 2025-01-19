@@ -1,0 +1,43 @@
+{
+  "resourceType": "QuestionnaireResponse",
+  "questionnaire": "http://fhir.org/guides/who/anc-cds/Questionnaire/ANCB5",
+  "status": "completed",
+  "subject": {
+    "reference": "Patient/charity-with-danger-signs"
+  },
+  "item": [
+    {
+      "linkId": "2",
+      "text": "Reason for coming to facility",
+      "answer": [
+        {
+          "valueCoding": {
+            "code": "ANC.B5.DE2"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "3",
+      "text": "Specific health concern(s)",
+      "answer": [
+        {
+          "valueCoding": {
+            "code": "ANC.B5.DE40"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "4",
+      "text": "Danger signs",
+      "answer": [
+        {
+          "valueCoding": {
+            "code": "ANC.B5.DE49"
+          }
+        }
+      ]
+    }
+  ]
+}
