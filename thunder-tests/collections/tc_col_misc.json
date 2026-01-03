@@ -9,12 +9,12 @@
             "_id": "bed75ac4-6fa9-477e-bd5a-fb8af699b487",
             "colId": "1fb58db7-51db-4d36-b027-2e2786e9836d",
             "containerId": "",
-            "name": "Patient",
-            "url": "ActivityDefinition",
+            "name": "get {whatever} general utility",
+            "url": "StructureDefinition",
             "method": "GET",
             "sortNum": 10000,
             "created": "2025-01-15T19:17:44.410Z",
-            "modified": "2025-01-18T22:07:51.845Z",
+            "modified": "2025-01-19T16:05:31.494Z",
             "headers": []
         },
         {
